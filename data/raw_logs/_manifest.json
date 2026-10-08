@@ -1,0 +1,137 @@
+[
+ {
+  "condition": "no_adapt",
+  "seed": 2,
+  "status": "ok",
+  "fname": "results/main_grid/no_adapt_seed2.json",
+  "elapsed_s": 74.1472339630127,
+  "mean_acc": 0.3876984126984127,
+  "t_since_start_s": 131.78611707687378
+ },
+ {
+  "condition": "no_adapt",
+  "seed": 1,
+  "status": "ok",
+  "fname": "results/main_grid/no_adapt_seed1.json",
+  "elapsed_s": 73.9739122390747,
+  "mean_acc": 0.38353174603174606,
+  "t_since_start_s": 132.11055994033813
+ },
+ {
+  "condition": "no_adapt",
+  "seed": 3,
+  "status": "ok",
+  "fname": "results/main_grid/no_adapt_seed3.json",
+  "elapsed_s": 73.92416501045227,
+  "mean_acc": 0.3830026455026455,
+  "t_since_start_s": 132.29467797279358
+ },
+ {
+  "condition": "tent",
+  "seed": 1,
+  "status": "ok",
+  "fname": "results/main_grid/tent_seed1.json",
+  "elapsed_s": 280.47402596473694,
+  "mean_acc": 0.12876984126984126,
+  "t_since_start_s": 336.21845602989197
+ },
+ {
+  "condition": "tent",
+  "seed": 2,
+  "status": "ok",
+  "fname": "results/main_grid/tent_seed2.json",
+  "elapsed_s": 281.37493896484375,
+  "mean_acc": 0.22420634920634921,
+  "t_since_start_s": 338.4602460861206
+ },
+ {
+  "condition": "tent",
+  "seed": 3,
+  "status": "ok",
+  "fname": "results/main_grid/tent_seed3.json",
+  "elapsed_s": 281.3909559249878,
+  "mean_acc": 0.1599206349206349,
+  "t_since_start_s": 339.1010901927948
+ },
+ {
+  "condition": "cotta",
+  "seed": 1,
+  "status": "ok",
+  "fname": "results/main_grid/cotta_seed1.json",
+  "elapsed_s": 328.87645173072815,
+  "mean_acc": 0.22962962962962963,
+  "t_since_start_s": 743.193372964859
+ },
+ {
+  "condition": "cotta",
+  "seed": 2,
+  "status": "ok",
+  "fname": "results/main_grid/cotta_seed2.json",
+  "elapsed_s": 330.8152389526367,
+  "mean_acc": 0.23578042328042328,
+  "t_since_start_s": 748.1430201530457
+ },
+ {
+  "condition": "cotta",
+  "seed": 3,
+  "status": "ok",
+  "fname": "results/main_grid/cotta_seed3.json",
+  "elapsed_s": 331.5389099121094,
+  "mean_acc": 0.22830687830687832,
+  "t_since_start_s": 750.3810739517212
+ },
+ {
+  "condition": "random_revert",
+  "seed": 2,
+  "status": "ok",
+  "fname": "results/main_grid/random_revert_seed2.json",
+  "elapsed_s": 5300.137937068939,
+  "mean_acc": 0.5186177248677248,
+  "t_since_start_s": 5490.9414031505585
+ },
+ {
+  "condition": "random_revert",
+  "seed": 3,
+  "status": "ok",
+  "fname": "results/main_grid/random_revert_seed3.json",
+  "elapsed_s": 5302.406145811081,
+  "mean_acc": 0.5593584656084656,
+  "t_since_start_s": 5493.650096178055
+ },
+ {
+  "condition": "random_revert",
+  "seed": 1,
+  "status": "ok",
+  "fname": "results/main_grid/random_revert_seed1.json",
+  "elapsed_s": 5309.243963956833,
+  "mean_acc": 0.5514880952380953,
+  "t_since_start_s": 5499.751802206039
+ },
+ {
+  "condition": "gated_tent",
+  "seed": 1,
+  "status": "ok",
+  "fname": "results/main_grid/gated_tent_seed1.json",
+  "elapsed_s": 5070.171540021896,
+  "mean_acc": 0.6179232804232804,
+  "t_since_start_s": 5885.767522096634
+ },
+ {
+  "condition": "gated_tent",
+  "seed": 3,
+  "status": "ok",
+  "fname": "results/main_grid/gated_tent_seed3.json",
+  "elapsed_s": 5069.4004011154175,
+  "mean_acc": 0.6255952380952381,
+  "t_since_start_s": 5892.522196054459
+ },
+ {
+  "condition": "gated_tent",
+  "seed": 2,
+  "status": "ok",
+  "fname": "results/main_grid/gated_tent_seed2.json",
+  "elapsed_s": 5073.995135307312,
+  "mean_acc": 0.6311507936507936,
+  "t_since_start_s": 5894.611408948898
+ }
+]

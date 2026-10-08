@@ -1,0 +1,5 @@
+comparison,metric,better,preregistered,mean_diff,ci_lo,ci_hi,excludes_zero,W,p,rank_biserial,pairs_favoring_x
+gated_tent vs ungated TENT,collapse_windows,lower,False,777.3333333333334,772.0,784.0,True,0.0,0.25,1.0,3/3
+gated_tent vs CoTTA,collapse_windows,lower,False,740.6666666666666,684.0,774.0,True,0.0,0.25,1.0,3/3
+gated_tent vs ungated TENT,worst_deficit_pp,lower,False,67.81249999999999,64.37500000000003,69.81249999999996,True,0.0,0.25,1.0,3/3
+gated_tent vs CoTTA,worst_deficit_pp,lower,False,64.31249999999997,61.562499999999964,66.31249999999994,True,0.0,0.25,1.0,3/3
