@@ -14,7 +14,7 @@ Code (`code/`): MIT License, see `LICENSE`. Data (`data/`): CC BY 4.0, see `LICE
 | Supplementary Coding File 1 | code/corruptions.py, code/stream_runner.py, code/cifar_resnet.py |
 | Supplementary Coding File 2 | code/main_grid_runner.py, code/main_grid_runner_short.py, code/main_grid_rerun_random_revert.py, code/ablation_runner.py |
 | Supplementary Coding File 3 | code/stats_analysis.py, code/figures/ |
-| Supplementary File 1 | preregistration/ (pre-registration and seven addenda) |
+| Supplementary File 1 | Not available: the pre-registration document could not be recovered; see the manuscript's Data Availability section |
 | Supplementary File 2 | data/derived/ |
 | Supplementary File 3 | data/raw_logs/ |
 | Supplementary File 4 | data/superseded/ (INVALID, audit only) |

@@ -1,0 +1,65 @@
+{
+  "title": "Conditional Reversal of Test-Time Updates Does Not Outperform Rate-Matched Random Reversal: A Pre-Registered Study (code and data)",
+  "upload_type": "software",
+  "description": "Code and data accompanying the article \"Conditional Reversal of Test-Time Updates Does Not Outperform Rate-Matched Random Reversal: A Pre-Registered Study\" (JoVE submission JoVE75807, revision). Code under code/ is licensed MIT; data under data/ are licensed CC BY 4.0. The files in data/superseded/ are INVALID logs from the uncorrected first run of the random-revert control and are retained for audit only (see data/superseded/DO_NOT_USE.md). The pre-registration document referred to in the article could not be recovered and is not included.",
+  "creators": [
+    {
+      "name": "K Prem",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Keerthi V S",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Challagundla Yogeshwanth",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Sandeep Patel P",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Anjana A",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Kirubavathi G",
+      "affiliation": "Department of Mathematics, Amrita Vishwa Vidyapeetham, Coimbatore, India"
+    },
+    {
+      "name": "Heba G. Mohamed",
+      "affiliation": "Department of Electrical Engineering, College of Engineering, Princess Nourah bint Abdulrahman University, Riyadh, Saudi Arabia"
+    },
+    {
+      "name": "Razaullah Hafiz Ullah",
+      "affiliation": "Department of Industrial Engineering, College of Engineering, University of Business and Technology, Jeddah, Saudi Arabia"
+    },
+    {
+      "name": "Salil Bharany",
+      "affiliation": "Chitkara University Institute of Engineering and Technology, Chitkara University, Rajpura, Punjab, India"
+    },
+    {
+      "name": "Alcardo Alex Barakabitze",
+      "affiliation": "Department of Informatics and Information Technology, Sokoine University of Agriculture, Morogoro, Tanzania"
+    },
+    {
+      "name": "Ateeq Ur Rehman",
+      "affiliation": "School of Computing, Gachon University, Seongnam-si, Republic of Korea"
+    }
+  ],
+  "keywords": [
+    "continual test-time adaptation",
+    "batch normalization",
+    "entropy minimization",
+    "distribution shift",
+    "common corruptions",
+    "model reset",
+    "rate-matched control",
+    "pre-registration",
+    "negative result",
+    "robustness",
+    "CIFAR-10"
+  ],
+  "license": "MIT"
+}
